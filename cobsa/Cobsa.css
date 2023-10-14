@@ -1,0 +1,42 @@
+html {@media(max-width: 767px){   
+}
+@media (min-width:768px) and (max-whidth:1023px){
+}
+@media (min-whidth: 1024){
+}}
+
+body{
+font-family: arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+    background-color: #333;
+    color:#fff;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer{
+    background-color: #333;
+    color:#fff;
+    padding: 20px;
+    text-align: center;
+}
+.logo{
+   display: flex;
+   justify-content: left;
+   max-width: 40px;
+   height: auto;
+   border-radius: 20px;
+   }
+.mensaje-principal{
+     display: block;
+            color: wheat;
+            text-align: center;
+            padding: 14px 16px;
+}
